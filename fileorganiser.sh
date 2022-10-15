@@ -17,7 +17,7 @@ mv *.pdf *.rar *.zip *.doc *.docx *.txt *.odt *.ppt *.pptx Documents
 
 
 cd Scripts
-mv organize.sh .. #the organize script is also sorted into the scripts folder, so take it out.
+mv organize.sh ..
 cd ..
 
 echo "Done!"
